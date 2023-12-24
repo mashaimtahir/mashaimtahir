@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+With four years of experience, I specialize in developing and deploying MERN stack web and mobile applications. Proficient in Next.js for web development, I offer end-to-end solutions with a focus on seamless user experiences and performance optimization. Let's turn your ideas into innovative, high-quality applications.
+
 <!--
 **mashaimtahir/mashaimtahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
